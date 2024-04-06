@@ -15,8 +15,8 @@ This command will install the required libraries: mediapipe for pose detection a
 ## Usage
 To use the program:
 
-    1. Ensure your webcam is connected and functional.
-    2. Run the script and follow the on-screen instructions.
-    3. Choose between push-up correction (enter '1') or lateral raise correction (enter '2').
-    4. Perform the corresponding exercise in front of the webcam.
-    5. Receive real-time feedback on your exercise form and technique.
+  1. Ensure your webcam is connected and functional.
+  2. Run the script and follow the on-screen instructions.
+  3. Choose between push-up correction (enter '1') or lateral raise correction (enter '2').
+  4. Perform the corresponding exercise in front of the webcam.
+  5. Receive real-time feedback on your exercise form and technique.
